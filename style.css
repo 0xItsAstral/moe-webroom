@@ -10,7 +10,6 @@ body {
   font-family: fredoka;
   padding: 0;
   margin: 0;
-  
 }
 
 .maincontainer {
@@ -19,8 +18,8 @@ body {
   align-items: center;
 }
 
-.space{
-    background-color: black;
-    width: 100%;
-    height: 50px;
+.space {
+  background-color: black;
+  width: 100%;
+  height: 50px;
 }
