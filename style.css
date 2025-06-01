@@ -3,7 +3,6 @@ html,
 body {
   cursor: url(https://cur.cursors-4u.net/smilies/smi-3/smi275.ani),
     url(https://cur.cursors-4u.net/smilies/smi-3/smi275.gif), auto !important;
-  /* background-color: rgb(244, 184, 218); */
   background-repeat: no-repeat;
   background-position: center top;
   background-size: 100cqmax;
@@ -11,9 +10,7 @@ body {
   padding: 0;
   margin: 0;
   background: #ffe6f7;
-  /* font-family: 'Comic Sans MS', cursive, sans-serif; */
 }
-
 
 .text-pink {
   color: #ff66cc;
