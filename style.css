@@ -22,7 +22,7 @@ body {
   border-radius: 15px;
   text-align: center;
   box-shadow: 0 0 8px pink;
-  max-width: 200px;
+  /* max-width: 200px; */
   margin: 10px auto;
 }
 .cute-img {
