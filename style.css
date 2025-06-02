@@ -15,6 +15,26 @@ body {
 .text-pink {
   color: #ff66cc;
 }
+.cute-box {
+  background: #fff0f5;
+  border: 2px dashed #ff69b4;
+  padding: 10px;
+  border-radius: 15px;
+  text-align: center;
+  box-shadow: 0 0 8px pink;
+  max-width: 200px;
+  margin: 10px auto;
+}
+.cute-img {
+  width: 100%;
+  border-radius: 10px;
+}
+.cute-title {
+  font-family: 'Comic Sans MS', cursive;
+  color: #ff1493;
+  font-size: 1rem;
+  margin-top: 10px;
+}
 
 .btn-outline-pink {
   border-color: #ff66cc;
